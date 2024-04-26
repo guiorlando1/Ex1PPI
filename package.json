@@ -1,0 +1,26 @@
+{
+  "name": "ex1ppi",
+  "version": "1.0.0",
+  "description": "Atividade 1 PPI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiorlando1/Ex1PPI.git"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "ppi"
+  ],
+  "author": "Guilherme Orlando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guiorlando1/Ex1PPI/issues"
+  },
+  "homepage": "https://github.com/guiorlando1/Ex1PPI#readme"
+}
